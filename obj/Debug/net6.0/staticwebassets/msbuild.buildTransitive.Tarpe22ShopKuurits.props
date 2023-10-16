@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Tarpe22ShopKuurits.props" />
+</Project>

@@ -1,7 +1,13 @@
+using Microsoft.EntityFrameworkCore;
+using Tarpe22Shop.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<Tarpe22ShopKuuritsContext>(OptionsBuilderConfigurationExtensions => OptionsBuilderConfigurationExtensions.UseSqlServer
+(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
 

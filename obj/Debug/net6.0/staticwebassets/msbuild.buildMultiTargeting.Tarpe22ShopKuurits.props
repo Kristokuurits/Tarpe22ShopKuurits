@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tarpe22ShopKuurits.props" />
+</Project>

@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\opilane\source\repos\Tarpe22Shop\Tarpe22ShopKuurits\Tarpe22ShopKuurits
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/opilane/source/repos/Tarpe22Shop/Tarpe22ShopKuurits/Tarpe22ShopKuurits/Models/SpaceShip/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = TW9kZWxzXFNwYWNlU2hpcFxJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/opilane/source/repos/Tarpe22Shop/Tarpe22ShopKuurits/Tarpe22ShopKuurits/Views/Spaceships/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BhY2VzaGlwc1xFZGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/opilane/source/repos/Tarpe22Shop/Tarpe22ShopKuurits/Tarpe22ShopKuurits/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
